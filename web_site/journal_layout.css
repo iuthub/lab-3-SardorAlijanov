@@ -23,7 +23,37 @@
 	border: 4px white solid;
 	border-width: thick;
 	border-color: #C2E9E9;
+	overflow: hidden;
 }
+
+body {
+	background-image: url(https://www.ecopetit.cat/wpic/mpic/30-306548_kimetsu-no-yaiba-background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h2{
+	font-size: 14pt;
+}
+
+img {
+	float: right;
+	clear: both;
+}
+
 .clear{
 	clear: both;
+}
+
+.friendpanel{
+	float: left;
+	width: 150px;
+}
+
+.respecter{
+	overflow: hidden;
+}
+
+*:hover{
+	background-color: yellow;
 }

@@ -19,13 +19,9 @@ blockquote {
 }
 
 body {
-	background-image: url(https://www.ecopetit.cat/wpic/mpic/30-306548_kimetsu-no-yaiba-background.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
 	font-family: "Georgia";
 	color: #009097;
 }
-
 
 h1, h2 {
 	font-weight: normal;
@@ -34,13 +30,7 @@ h1, h2 {
 	padding: 0px;
 }
 
-h2{
-	font-size: 14pt;
-}
-
 img {
-	float: right;
-	clear: both;
 	border-style: none;
 	padding: 5px;
 }
